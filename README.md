@@ -50,7 +50,7 @@ incidents, and building a live 6-panel monitoring dashboard.
 | `soc_security_logs_razzsecurity.csv` | 520-event security log file |
 | `Incident_Report_IR-2025-OCT-001.docx` | Full 4-incident report |
 | `SOC_Project_Complete_Guide.docx` | Step-by-step project guide |
-| `dashboard_screenshot.png` | Live Splunk dashboard |
+| `dashboard_screenshot.pdf` | Live Splunk dashboard |
 
 ---
 
